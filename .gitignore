@@ -1,0 +1,51 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore .DS_Store (Mac OS)
+.DS_Store
+
+# Ignore Unity crash logs
+sysinfo.txt
+
+# Ignore project-specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.exe
+*.pdf
+*.mid
+*.midi
+*.wav
+*.mp3
+*.ogg
+*.jpg
+*.jpeg
+*.png
+*.tga
+*.gif
+*.ico
+*.bmp
+*.dds
+*.tif
+*.tiff
+*.3ds
+*.max
+*.obj
+*.fbx
+*.mat
+*.unity
+*.cubemap
+*.prefab
+*.rendertexture
+.vs/
+.idea/
